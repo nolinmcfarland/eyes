@@ -13,6 +13,11 @@ Here's how to get started with Eyes:
 ## Usage
 
 - As you move your cursor, the eyes will follow!
+
+## Roadmap of improvements
+
+1. Color selector for customizing the background color.
+1. Colored irises.
  
 ## License
  
