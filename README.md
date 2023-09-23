@@ -1,5 +1,5 @@
 # Eyes
-Watch the eyes watch your cursor! A simple web app that displays animated eyes that follow your cursor. Built with JavaScript.
+Watch them watch your cursor. A simple web app built with JavaScript that displays animated eyes that follow your cursor.
 
 ![Eyes](./images/eyes.png)
 
